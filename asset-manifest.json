@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TodoAppNeon/static/css/main.7ca35d33.css",
+    "main.js": "/TodoAppNeon/static/js/main.cd333e79.js",
+    "index.html": "/TodoAppNeon/index.html",
+    "main.7ca35d33.css.map": "/TodoAppNeon/static/css/main.7ca35d33.css.map",
+    "main.cd333e79.js.map": "/TodoAppNeon/static/js/main.cd333e79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca35d33.css",
+    "static/js/main.cd333e79.js"
+  ]
+}
